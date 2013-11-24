@@ -12,7 +12,7 @@ import org.csapi.wsdl.parlayx.sms.send.v2_2.service.SendSmsService;
 
 /**
  *
- * @author GT-IT
+ * @author Zaki Ahmad
  */
 public class Main {
 
